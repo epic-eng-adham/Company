@@ -6,8 +6,8 @@ An ASP.NET Core Web API project for managing company-related data, including emp
 ## Technologies Used
 - C#
 - ASP.NET Core Web API
-- SQL Server (if used)
-- Entity Framework Core (if used)
+- SQL Server 
+- Entity Framework Core 
 
 ## Features
 - Manage company data.
